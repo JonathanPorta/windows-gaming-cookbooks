@@ -1,0 +1,5 @@
+source "https://supermarket.chef.io"
+
+cookbook 'chocolatey', '~> 0.2.0'
+
+metadata
