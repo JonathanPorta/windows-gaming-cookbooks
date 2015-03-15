@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe 'chocolatey::default' do
+describe 'endpoint::default' do
 
   # Serverspec examples can be found at
   # http://serverspec.org/resource_types.html

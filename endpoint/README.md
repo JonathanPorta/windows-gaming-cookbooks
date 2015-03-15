@@ -1,4 +1,4 @@
-# chocolatey
+# endpoint
 
 TODO: Enter the cookbook description here.
 
