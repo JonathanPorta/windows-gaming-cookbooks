@@ -6,3 +6,5 @@ description      'Installs/Configures endpoint'
 long_description 'Installs/Configures endpoint'
 version          '0.1.0'
 
+depends 'chocolatey'
+depends 'windows'
